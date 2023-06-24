@@ -1,10 +1,8 @@
 <div>
-  <h1 align="center">Oi Tudo bem? Eu sou o <a href="https://www.linkedin.com/in/alisonsilva300/"><i>Alison Silva</i></a> 😃️</h1>
-  <p align="center">Estudei Desenvolvimento de Sistemas na ETEC <a href="https://www.Itaquera.com/"><i>ITAQUERA</i></a> e compartilho meu aprendizado no Github <a href="https://www.youtube.com/channel/UCViaNBT0SIeiVnZSEEtIfjw?sub_confirmation=1"><i> <img align="center" alt="github" height="20" width="20" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg"> </i></a><span> 👉🏽️</span>
+  <h1 align="center">Oi Tudo bem? Eu sou o <a href="https://www.linkedin.com/in/alisonsilva300/"><i>Alison Silva</i></a> </h1>
   <a align="rigth"  href="https:photo_110545792_coding-icon-simple-logo-of-code-signs-on-black-background-flat-vector-illustration// lcode500>
     <img width="10%" align="center" valign="middle" src="https://img.shields.io/youtube/channel/subscribers/UCViaNBT0SIeiVnZSEEtIfjw?label=iCode&style=social  " target="_blank" />
-  </a><br>
-  <p align="center"> vem codar comigo, tua contribuição será muito bem vinda, vlw mesmo! 😉️</h2>
+
 </div>
 
 
@@ -26,8 +24,6 @@
   <img align="center" alt="CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" alt="Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="nodejs" height="30" width="40" src="https://cdn.worldvectorlogo.com/logos/nodejs-icon.svg">
-<!--   <img align="center" alt="github" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg"> -->
-   <img align="center" alt="github" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg"> 
   <img align="center" alt="linux" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg">
 </div><br>
 
